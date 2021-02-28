@@ -15,16 +15,16 @@ public class LoginPage extends BasePage {
     }
     public void gittiGidiyorLogin()
     {
-        Assert.assertEquals("GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi",getDriver().getTitle());
+        Assert.assertEquals(homeTitle,getDriver().getTitle());
         hoverElement(SIGN);
         clickElement(SIGN_IN_HOME_PAGE);
-        Assert.assertEquals("Üye Girişi - GittiGidiyor",getDriver().getTitle());
+        Assert.assertEquals(loginTitle,getDriver().getTitle());
         findElement(USER_NAME).clear();
-        sendKeys(USER_NAME,"ffatmacafri");
+        sendKeys(USER_NAME,userName);
         findElement(PASSWORD).clear();
-        sendKeys(PASSWORD,"142296Fc.");
+        sendKeys(PASSWORD,password);
         clickElement(SIGN_IN_BUTTON);
-        Assert.assertEquals("GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi",getDriver().getTitle());
+        Assert.assertEquals(homeTitle,getDriver().getTitle());
         System.out.println("Giriş Başarılı.");
     }
 }

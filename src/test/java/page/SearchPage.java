@@ -20,7 +20,7 @@ public class SearchPage extends BasePage {
         hoverElement(SEARCH);
         clickElement(SEARCH);
         System.out.println("Arama Kutusuna Tıklanıldı.");
-        sendKeys(SEARCH_TEXT,"bilgisayar");
+        sendKeys(SEARCH_TEXT,text);
         System.out.println("Arama Kutusuna Aranılacak Kelime Yazıldı.");
         clickElement(SEARCH_BUTTON);
         System.out.println("Arama Butonuna Tıklanıldı ve Sonuçlar Açıldı.");
@@ -31,7 +31,7 @@ public class SearchPage extends BasePage {
         WebElement element = getDriver().findElement(PAGINATION);
         ((JavascriptExecutor)getDriver()).executeScript("arguments[0].scrollIntoView(true);",element);
         element.click();
-        Assert.assertEquals(getDriver().getCurrentUrl(),"https://www.gittigidiyor.com/arama/?k=bilgisayar&sf=2");
+        Assert.assertEquals(getDriver().getCurrentUrl(),url);
         //getDriver().navigate().to("https://www.gittigidiyor.com/arama/?k=bilgisayar&sf=2");
     }
 
