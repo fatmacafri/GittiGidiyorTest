@@ -1,6 +1,6 @@
 package test;
 
-import com.test.base.BaseTest;
+import base.BaseTest;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
