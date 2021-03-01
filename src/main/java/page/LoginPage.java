@@ -31,7 +31,6 @@ public class LoginPage extends BasePage {
         sendKeys(PASSWORD,password);
         clickElement(SIGN_IN_BUTTON);
         logger.info("Login İşlemi Gerçekleşti.");
-        logger.error("Giriş Yapılamadı.");
         Assert.assertEquals(homeTitle,getDriver().getTitle());
         logger.info("Ana Sayfaya Yönlendirilme Kontrol Edildi.");
     }

@@ -22,63 +22,49 @@
 2021-03-01 01:11:15 INFO  ProductPage:66 - Sepete En Son Eklenen Ürün Adedi Artırıldı. Yeni Adet :          2        
 2021-03-01 01:11:15 INFO  ProductPage:71 - Sepetteki Ürün Siliniyor.
 2021-03-01 01:11:16 INFO  ProductPage:74 - Sepetin Boş Olduğu Doğrulandı.Test Başarılı.
-2021-03-01 01:12:28 INFO  LoginPage:20 - Test Edilecek Site Açıldı.
-2021-03-01 01:12:29 INFO  LoginPage:22 - Ana Sayfanın Açıldığı Kontrol Edildi. 
-2021-03-01 01:12:34 INFO  LoginPage:25 - Login Sayfası Açıldı.
-2021-03-01 01:12:34 INFO  LoginPage:27 - Açılan Sayfanın Login Sayfası Olduğu Kontrol Edildi.
-2021-03-01 01:12:39 INFO  LoginPage:33 - Login İşlemi Gerçekleşti.
-2021-03-01 01:12:39 INFO  LoginPage:35 - Ana Sayfaya Yönlendirilme Kontrol Edildi.
-2021-03-01 01:12:39 INFO  SearchPage:24 - Arama Kutusuna Tıklanıldı.
-2021-03-01 01:12:39 INFO  SearchPage:26 - Aranılanılacak Kelime : bilgisayar
-2021-03-01 01:12:45 INFO  SearchPage:28 - Arama Yapıldı Sonuçlar Gösteriliyor.
-2021-03-01 01:12:48 INFO  SearchPage:37 - Arama Sonuçları Sayfasından 2.Sayfa Açılıyor.
-2021-03-01 01:12:48 INFO  SearchPage:39 - 2.Sayfanın Açıldığı Kontrol Edildi.
-2021-03-01 01:12:48 INFO  ProductPage:27 - Açılan Ürünlerden Rastgele Bir Ürün Seçiliyor.
-2021-03-01 01:12:51 INFO  ProductPage:30 - Açılan Ürünlerden Rastgele Bir Ürün Seçildi.
-2021-03-01 01:12:51 INFO  ProductPage:36 - Seçilen Ürünün Fiyatı :5.049,00 TL
-2021-03-01 01:12:51 INFO  ProductPage:37 - Sepete Ekle'ye Tıklandı.
-2021-03-01 01:12:52 INFO  ProductPage:41 - Seçilen Ürün Sepete Eklendi.
-2021-03-01 01:12:53 INFO  ProductPage:47 - Sepete Git'e Tıklanıldı.
-2021-03-01 01:12:53 INFO  ProductPage:49 - Sepetteki Ürünün Fiyatı :5.049,00 TL
-2021-03-01 01:12:54 INFO  ProductPage:56 - Ürün Sayfasındaki Fiyat ile Sepette Yer Alan Ürün Fiyatının Doğruluğu Karşılaştırılıyor.
-2021-03-01 01:12:54 INFO  ProductPage:58 - 5.049,00 TL = 5.049,00 TLÜrünün Fiyatı Doğru.
-2021-03-01 01:12:54 INFO  ProductPage:64 - Sepete En Son Eklenen Ürünün Adedi Arttılıyor.
-2021-03-01 01:12:55 INFO  ProductPage:66 - Sepete En Son Eklenen Ürün Adedi Artırıldı. Yeni Adet :          2        
-2021-03-01 01:12:55 INFO  ProductPage:71 - Sepetteki Ürün Siliniyor.
-2021-03-01 01:12:56 INFO  ProductPage:74 - Sepetin Boş Olduğu Doğrulandı.Test Başarılı.
-2021-03-01 01:13:46 INFO  LoginPage:20 - Test Edilecek Site Açıldı.
-2021-03-01 01:13:46 INFO  LoginPage:22 - Ana Sayfanın Açıldığı Kontrol Edildi. 
-2021-03-01 01:13:50 INFO  LoginPage:25 - Login Sayfası Açıldı.
-2021-03-01 01:13:50 INFO  LoginPage:27 - Açılan Sayfanın Login Sayfası Olduğu Kontrol Edildi.
-2021-03-01 01:13:55 INFO  LoginPage:33 - Login İşlemi Gerçekleşti.
-2021-03-01 01:15:03 INFO  LoginPage:20 - Test Edilecek Site Açıldı.
-2021-03-01 01:15:03 INFO  LoginPage:22 - Ana Sayfanın Açıldığı Kontrol Edildi. 
-2021-03-01 01:15:07 INFO  LoginPage:25 - Login Sayfası Açıldı.
-2021-03-01 01:15:07 INFO  LoginPage:27 - Açılan Sayfanın Login Sayfası Olduğu Kontrol Edildi.
-2021-03-01 01:15:12 INFO  LoginPage:33 - Login İşlemi Gerçekleşti.
-2021-03-01 01:15:12 ERROR LoginPage:34 - Giriş Yapılamadı.
-2021-03-01 01:20:16 INFO  LoginPage:20 - Test Edilecek Site Açıldı.
-2021-03-01 01:20:16 INFO  LoginPage:22 - Ana Sayfanın Açıldığı Kontrol Edildi. 
-2021-03-01 01:20:19 INFO  LoginPage:25 - Login Sayfası Açıldı.
-2021-03-01 01:20:19 INFO  LoginPage:27 - Açılan Sayfanın Login Sayfası Olduğu Kontrol Edildi.
-2021-03-01 01:20:24 INFO  LoginPage:33 - Login İşlemi Gerçekleşti.
-2021-03-01 01:20:24 ERROR LoginPage:34 - Giriş Yapılamadı.
-2021-03-01 01:20:24 INFO  LoginPage:36 - Ana Sayfaya Yönlendirilme Kontrol Edildi.
-2021-03-01 01:20:24 INFO  SearchPage:24 - Arama Kutusuna Tıklanıldı.
-2021-03-01 01:20:25 INFO  SearchPage:26 - Aranılanılacak Kelime : bilgisayar
-2021-03-01 01:20:31 INFO  SearchPage:28 - Arama Yapıldı Sonuçlar Gösteriliyor.
-2021-03-01 01:20:34 INFO  SearchPage:37 - Arama Sonuçları Sayfasından 2.Sayfa Açılıyor.
-2021-03-01 01:20:34 INFO  SearchPage:39 - 2.Sayfanın Açıldığı Kontrol Edildi.
-2021-03-01 01:20:34 INFO  ProductPage:27 - Açılan Ürünlerden Rastgele Bir Ürün Seçiliyor.
-2021-03-01 01:20:38 INFO  ProductPage:30 - Açılan Ürünlerden Rastgele Bir Ürün Seçildi.
-2021-03-01 01:20:38 INFO  ProductPage:36 - Seçilen Ürünün Fiyatı :19.313,00 TL
-2021-03-01 01:20:38 INFO  ProductPage:37 - Sepete Ekle'ye Tıklandı.
-2021-03-01 01:20:38 INFO  ProductPage:41 - Seçilen Ürün Sepete Eklendi.
-2021-03-01 01:20:39 INFO  ProductPage:47 - Sepete Git'e Tıklanıldı.
-2021-03-01 01:20:39 INFO  ProductPage:49 - Sepetteki Ürünün Fiyatı :19.313,00 TL
-2021-03-01 01:20:39 INFO  ProductPage:56 - Ürün Sayfasındaki Fiyat ile Sepette Yer Alan Ürün Fiyatının Doğruluğu Karşılaştırılıyor.
-2021-03-01 01:20:39 INFO  ProductPage:58 - 19.313,00 TL = 19.313,00 TLÜrünün Fiyatı Doğru.
-2021-03-01 01:20:40 INFO  ProductPage:64 - Sepete En Son Eklenen Ürünün Adedi Arttılıyor.
-2021-03-01 01:20:41 INFO  ProductPage:66 - Sepete En Son Eklenen Ürün Adedi Artırıldı. Yeni Adet :          2        
-2021-03-01 01:20:41 INFO  ProductPage:71 - Sepetteki Ürün Siliniyor.
-2021-03-01 01:20:42 INFO  ProductPage:74 - Sepetin Boş Olduğu Doğrulandı.Test Başarılı.
+
+
+
+
+2021-03-01 09:22:16 INFO  LoginPage:20 - Test Edilecek Site Açıldı.
+2021-03-01 09:22:16 INFO  LoginPage:22 - Ana Sayfanın Açıldığı Kontrol Edildi. 
+2021-03-01 09:22:22 INFO  LoginPage:25 - Login Sayfası Açıldı.
+2021-03-01 09:22:22 INFO  LoginPage:27 - Açılan Sayfanın Login Sayfası Olduğu Kontrol Edildi.
+2021-03-01 09:22:26 INFO  LoginPage:33 - Login İşlemi Gerçekleşti.
+2021-03-01 09:23:06 INFO  LoginPage:20 - Test Edilecek Site Açıldı.
+2021-03-01 09:23:06 INFO  LoginPage:22 - Ana Sayfanın Açıldığı Kontrol Edildi. 
+2021-03-01 09:23:10 INFO  LoginPage:25 - Login Sayfası Açıldı.
+2021-03-01 09:23:10 INFO  LoginPage:27 - Açılan Sayfanın Login Sayfası Olduğu Kontrol Edildi.
+2021-03-01 09:23:15 INFO  LoginPage:33 - Login İşlemi Gerçekleşti.
+2021-03-01 09:23:15 INFO  LoginPage:35 - Ana Sayfaya Yönlendirilme Kontrol Edildi.
+2021-03-01 09:23:16 INFO  SearchPage:24 - Arama Kutusuna Tıklanıldı.
+2021-03-01 09:23:16 INFO  SearchPage:26 - Aranılanılacak Kelime : bilgisayar
+2021-03-01 09:23:22 INFO  SearchPage:28 - Arama Yapıldı Sonuçlar Gösteriliyor.
+2021-03-01 09:23:25 INFO  SearchPage:37 - Arama Sonuçları Sayfasından 2.Sayfa Açılıyor.
+2021-03-01 09:23:25 INFO  SearchPage:39 - 2.Sayfanın Açıldığı Kontrol Edildi.
+2021-03-01 09:23:25 INFO  ProductPage:27 - Açılan Ürünlerden Rastgele Bir Ürün Seçiliyor.
+2021-03-01 09:23:28 INFO  ProductPage:30 - Açılan Ürünlerden Rastgele Bir Ürün Seçildi.
+2021-03-01 09:24:26 INFO  LoginPage:20 - Test Edilecek Site Açıldı.
+2021-03-01 09:24:26 INFO  LoginPage:22 - Ana Sayfanın Açıldığı Kontrol Edildi. 
+2021-03-01 09:24:31 INFO  LoginPage:25 - Login Sayfası Açıldı.
+2021-03-01 09:24:31 INFO  LoginPage:27 - Açılan Sayfanın Login Sayfası Olduğu Kontrol Edildi.
+2021-03-01 09:24:36 INFO  LoginPage:33 - Login İşlemi Gerçekleşti.
+2021-03-01 09:24:36 INFO  LoginPage:35 - Ana Sayfaya Yönlendirilme Kontrol Edildi.
+2021-03-01 09:24:37 INFO  SearchPage:24 - Arama Kutusuna Tıklanıldı.
+2021-03-01 09:24:37 INFO  SearchPage:26 - Aranılanılacak Kelime : bilgisayar
+2021-03-01 09:24:44 INFO  SearchPage:28 - Arama Yapıldı Sonuçlar Gösteriliyor.
+2021-03-01 09:24:48 INFO  SearchPage:37 - Arama Sonuçları Sayfasından 2.Sayfa Açılıyor.
+2021-03-01 09:24:48 INFO  SearchPage:39 - 2.Sayfanın Açıldığı Kontrol Edildi.
+2021-03-01 09:24:48 INFO  ProductPage:27 - Açılan Ürünlerden Rastgele Bir Ürün Seçiliyor.
+2021-03-01 09:24:52 INFO  ProductPage:30 - Açılan Ürünlerden Rastgele Bir Ürün Seçildi.
+2021-03-01 09:24:52 INFO  ProductPage:36 - Seçilen Ürünün Fiyatı :5.049,00 TL
+2021-03-01 09:24:52 INFO  ProductPage:37 - Sepete Ekle'ye Tıklandı.
+2021-03-01 09:24:52 INFO  ProductPage:41 - Seçilen Ürün Sepete Eklendi.
+2021-03-01 09:24:53 INFO  ProductPage:47 - Sepete Git'e Tıklanıldı.
+2021-03-01 09:24:54 INFO  ProductPage:49 - Sepetteki Ürünün Fiyatı :5.049,00 TL
+2021-03-01 09:24:54 INFO  ProductPage:56 - Ürün Sayfasındaki Fiyat ile Sepette Yer Alan Ürün Fiyatının Doğruluğu Karşılaştırılıyor.
+2021-03-01 09:24:54 INFO  ProductPage:58 - 5.049,00 TL = 5.049,00 TLÜrünün Fiyatı Doğru.
+2021-03-01 09:24:54 INFO  ProductPage:64 - Sepete En Son Eklenen Ürünün Adedi Arttılıyor.
+2021-03-01 09:24:55 INFO  ProductPage:66 - Sepete En Son Eklenen Ürün Adedi Artırıldı. Yeni Adet :          2        
+2021-03-01 09:24:55 INFO  ProductPage:71 - Sepetteki Ürün Siliniyor.
+2021-03-01 09:24:56 INFO  ProductPage:74 - Sepetin Boş Olduğu Doğrulandı.Test Başarılı.
