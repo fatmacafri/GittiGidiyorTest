@@ -5,36 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7b6549d-3f6a-406a-84e4-97fe5c00930a" name="Default Changelist" comment="Locatorlar güncellendi.">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/test-project.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/test-project.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/base/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constants/LoginPageConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/constants/LoginPageConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constants/ProductPageConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/constants/ProductPageConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constants/SearchPageConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/constants/SearchPageConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/page/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/page/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/page/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/page/ProductPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/page/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/page/SearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/base/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/LoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/ProductPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/ProductPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/SearchPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/SearchPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constants/LoginPageConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constants/ProductPageConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constants/SearchPageConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/page/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/page/ProductPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/page/SearchPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/LoginPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/ProductPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/SearchPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/constants/ProductPageConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/constants/ProductPageConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/constants/SearchPageConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/constants/SearchPageConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gittigidiyor/constants/SearchPageConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gittigidiyor/constants/SearchPageConstant.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,6 +135,21 @@
       <option name="presentableId" value="Default" />
       <updated>1616266435039</updated>
     </task>
+    <task id="LOCAL-00001" summary="Locatorlar güncellendi.">
+      <created>1617222172381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617222172381</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Locatorlar güncellendi.">
+      <created>1617222233837</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617222233837</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
