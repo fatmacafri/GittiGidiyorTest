@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7b6549d-3f6a-406a-84e4-97fe5c00930a" name="Default Changelist" comment="Locatorlar güncellendi.">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/test-project.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/test-project.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/base/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constants/LoginPageConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/constants/LoginPageConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constants/ProductPageConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/constants/ProductPageConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constants/SearchPageConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/constants/SearchPageConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/page/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/page/ProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittigidiyor/page/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/ProductPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/ProductPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/SearchPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gittigidiyor/test/SearchPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/constants/LoginPageConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/constants/ProductPageConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/constants/SearchPageConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/page/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/page/ProductPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/page/SearchPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/LoginPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/ProductPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/SearchPageTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q28flRMOeFL9KBCreKNp1XhhWj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\IdeaProjects\GittiGidiyorTest\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\IdeaProjects\GittiGidiyorTest\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainTest.mainTest">
+    <configuration name="LoginPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GittiGidiyorTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gittigidiyor.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gittigidiyor.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gittigidiyor.test.LoginPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GittiGidiyorTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gittigidiyor.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gittigidiyor.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gittigidiyor.test.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.mainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GittiGidiyorTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gittigidiyor.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gittigidiyor.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gittigidiyor.test.MainTest" />
+      <option name="METHOD_NAME" value="mainTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GittiGidiyorTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gittigidiyor.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gittigidiyor.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gittigidiyor.test.ProductPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GittiGidiyorTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gittigidiyor.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gittigidiyor.test" />
+      <option name="MAIN_CLASS_NAME" value="com.gittigidiyor.test.SearchPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTest.mainTest" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.ProductPageTest" />
+        <item itemvalue="JUnit.LoginPageTest" />
+        <item itemvalue="JUnit.SearchPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7b6549d-3f6a-406a-84e4-97fe5c00930a" name="Default Changelist" comment="" />
+      <created>1616266435039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616266435039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Locatorlar güncellendi." />
+    <option name="LAST_COMMIT_MESSAGE" value="Locatorlar güncellendi." />
+  </component>
+</project>
